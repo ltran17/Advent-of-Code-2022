@@ -9,21 +9,21 @@ My goal for this year is to earn 25 of 50 possible stars, a number that feels at
 Stars earned (as of 12/10): 16
 
 ## Day 01: :star2: :star2:
-     Warm up problem. I remembered how annoying it was to create four files a day so made a couple of utility functions to make it go a little faster. 
+Warm up problem. I remembered how annoying it was to create four files a day so made a couple of utility functions to make it go a little faster. 
 ## Day 02: :star2: :star2:
-     Rock-Paper-Scissors with scoring. Straightforward. 
+Rock-Paper-Scissors with scoring. Straightforward. 
 ## Day 03: :star2: :star2:
-     Rucksack prioritization. The set data structure was helpful here. Quick solve.
+Rucksack prioritization. The set data structure was helpful here. Quick solve.
 ## Day 04: :star2: :star2:
-     Camp cleanup. My final line of code is `sum([does_overlap(assignment) for assignment in assignments])`. I've seen other solutions where it is one line of code IN TOTAL. Amazing. Also not my style.
+Camp cleanup. My final line of code is `sum([does_overlap(assignment) for assignment in assignments])`. I've seen other solutions where it is one line of code IN TOTAL. Amazing. Also not my style.
 ## Day 05: :star2: :star2:
-     A stacking problem, so used a stack-style data structure, the `LifoQueue`. The biggest challenge was parsing the input.    
+A stacking problem, so used a stack-style data structure, the `LifoQueue`. The biggest challenge was parsing the input.    
 ## Day 06: :star2: :star2:
-     Signal processing. If only real life signal processing were so easy.
+Signal processing. If only real life signal processing were so easy.
 ## Day 07: :star2: :star2:
-     Skipped it because it doesn't look fun -- but I could come back to it if I need the stars to reach my goal.
+Skipped it because it doesn't look fun -- but I could come back to it if I need the stars to reach my goal.
 ## Day 08: :star2: :star2:
-     The forest and the trees. The data scientist in me wanted to bring in a dataframe instead of dealing with a 2-D array, but I stuck it out and solved just fine. I took advantage of the fact that functions are first class objects in Python. This may be a clue that this would be better solved by object oriented programming but that would be future, refactoring work. 
+The forest and the trees. The data scientist in me wanted to bring in a dataframe instead of dealing with a 2-D array, but I stuck it out and solved just fine. I took advantage of the fact that functions are first class objects in Python. This may be a clue that this would be better solved by object oriented programming but that would be future, refactoring work. 
 ## Day 09: :star2: :star2:
-     Rope bridge. Got tripped up in part 2, so I read the directions carefully and had to contemplate this advice for a while: `...Be careful: more types of motion are possible than before...` Figuring that out was the key to the solution.
+Rope bridge. Got tripped up in part 2, so I read the directions carefully and had to contemplate this advice for a while: `...Be careful: more types of motion are possible than before...` Figuring that out was the key to the solution.
 ## Day 10: not yet attempted
