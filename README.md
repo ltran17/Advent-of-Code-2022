@@ -26,4 +26,5 @@ Skipped it because it doesn't look fun -- but I could come back to it if I need 
 The forest and the trees. The data scientist in me wanted to bring in a dataframe instead of dealing with a 2-D array, but I stuck it out and solved just fine. I took advantage of the fact that functions are first class objects in Python. This may be a clue that this would be better solved by object oriented programming but that would be future, refactoring work. 
 ## Day 09: :star2: :star2:
 Rope bridge. Got tripped up in part 2, so I read the directions carefully and had to contemplate this advice for a while: `...Be careful: more types of motion are possible than before...` Figuring that out was the key to the solution.
-## Day 10: not yet attempted
+## Day 10: :star2: :star2:
+Cathode Ray Tube. Frustrating off by one error in part 1. Hard to read the ASCII art solution in part 2, but I got it! All before my very old laptop ran out of power.
