@@ -1,6 +1,6 @@
 # Advent-of-Code-2022
 
-My goal for this year is to earn 25 of 50 possible stars, a number that feels attainable suring this busy season. This is my third year participating: in 2020 I was a novice coder and these puzzles took me a long time to complete. I stop when I solve the puzzle: no refactoring here! There's too much else to do.
+My goal for this year is to earn 25 of 50 possible stars, a number that feels attainable during this busy season. This is my third year participating: in 2020 I was a novice coder and these puzzles took me a long time to complete. I stop when I solve the puzzle: no refactoring here! There's too much else to do.
 
 ## Things I've learned about my coding:
 * I have improved! It takes me less time to complete the problems than it did two years ago. Also I'm getting the solutions on the first submission.
